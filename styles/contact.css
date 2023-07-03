@@ -1,0 +1,97 @@
+/*contact.php*/
+
+body, html {
+    color:rgb(79, 0, 79);
+    font-family: Verdana, sans-serif; margin:0;
+}
+
+.contact-background {
+    background-image: linear-gradient(lightyellow, rgb(233, 201, 255));
+    background-position: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact-container {
+    display: flex;
+    width: 100%;
+  }
+
+.contact-container form {
+    line-height: 25px;
+    width: 40%;
+    margin-left: 10%;
+}
+
+.contact-container input {
+    background-color: transparent;
+    border: 2px solid rgb(59, 2, 90);
+    border-radius: 30px;
+    width:100%;
+    padding: 5px;
+    border-width: 3px; /* set the border width to 3px */ 
+}
+
+.contact-container .contact-btn {
+    background:rgb(59, 2, 90); /* Purple color code */
+    color: white; /* Text color */
+    width: 30%;
+    height: 35px;
+    border: none; /* Remove button border */
+    border-radius: 20px; /* Rounded button edges */
+    cursor: pointer; /* Change cursor on hover */
+}
+
+.contact-container .contact-img {
+    position: relative;
+    margin: auto;
+    width: 45%;
+}
+
+.contact-img img {
+    width: 450px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-left: 30px;
+}
+  
+.contact-img .contact-content {
+    position:absolute;
+    background: rgba(59,2,90); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    padding: 10px;
+    width: 77.25%;
+    margin-top: -5px;
+    margin-left: 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.contact-content {
+    position: absolute;
+    bottom: 10;
+    left: 0;
+    width: 85.6%;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    padding: 10px;
+    box-sizing: border-box;
+}
+  
+.contact-pg {
+    border-collapse: collapse;
+    color: white;
+    border-radius: 10px;
+    font-size: 12px;
+    width: 450px;
+}
+
+.contact-pg th, .contact-pg td {
+    padding: 10px;
+    text-align: center;
+}
+
+.contact-pg th {
+    font-size: 14px;
+}

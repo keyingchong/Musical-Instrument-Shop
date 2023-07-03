@@ -1,0 +1,38 @@
+/*policy*/
+.delivery, .support, .money {
+    display: flex;
+    align-items: flex-start;
+    margin-left: 20px;
+}
+
+.delivery img, .support img, .money img {
+    width: 80px;
+    height: 80px;
+    object-position: center;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.delivery h1, .support h1, .money h1 {
+    margin-left: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+
+
+.policy-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  
+.policy-column {
+    font-size: 12px;
+    margin: auto;
+}
+
+.policy-column p {
+    margin-top: -35px;
+    margin-left: 135.5px;
+}

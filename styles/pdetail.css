@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body, html {
+    color:rgb(79, 0, 79);
+    font-family: Verdana, sans-serif; margin:0;
+}
+
+  .details-background {
+    background-image: linear-gradient(lightyellow, rgb(233, 201, 255));
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0;
+  }
+
+  .detail-container {
+    position: relative;
+    width:40%;
+    margin-left: 50px;
+  }
+  
+  .detail-container .detail-slide img{
+    border-radius: 10px;
+		height: 500px;
+    object-fit: cover;
+  }
+
+  .detail-cursor {
+		height: 90px;
+		object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .detail-container .cursor {
+    cursor: pointer;
+  }
+  
+  .detail-container .detail-prev:hover, .detail-container .detail-next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+
+  .detail-container .detail-row {
+    margin-left: 40px;
+  }
+  
+  .detail-container .detail-row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  
+  /* Six columns side by side */
+  .detail-container .detail-column {
+    float: left;
+    width: 16%;
+    margin-left: 10px;
+  }
+  
+  .detail-container .detail-cursor {
+    opacity: 0.6;
+  }
+  
+  .detail-container .active, .detail-container .detail-cursor:hover {
+    opacity: 1;
+  }
+
+  .detail-container2 {
+    float:right;
+    width: 47%;
+    margin-right:20px;
+    margin-top: -609px;
+  }
+
+  .detail-container2 table {
+    background-color: rgb(59,2,90);
+    color:white;   
+    width: 100%;
+    border-radius: 10px;
+    height: 498.5px;
+    margin-left: -40px;
+  }
+
+.detail-container2 td {
+    padding: 3px;
+    padding-left: 20px;
+    text-align: left;
+  }
+
+.add-to-cart-button {
+    background-color:white; /* Purple color code */
+    color: rgb(59, 2, 90); /* Text color */
+    padding: 10px 20px; /* Padding for button */
+    border: none; /* Remove button border */
+    border-radius: 20px; /* Rounded button edges */
+    cursor: pointer; /* Change cursor on hover */
+    float: right;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+

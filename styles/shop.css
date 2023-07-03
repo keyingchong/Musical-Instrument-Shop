@@ -1,0 +1,141 @@
+
+body, html {
+    color:rgb(79, 0, 79);
+    font-family: Verdana, sans-serif; margin:0;
+}
+
+.shop-background {
+    background-image: linear-gradient(lightyellow, rgb(233, 201, 255));
+    background-position: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1, h2 {
+    text-align: center;
+}
+.instrument-list {
+    display: none;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.instrument {
+    border-radius: 5px;
+    width: calc(33.33% - 20px); /* 3 instruments in a row */
+    margin: 20px 10px;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.instrument img {
+    display: block;
+    margin: auto;
+}
+
+.rating {
+    color: gold;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.pagination a {
+    display: inline-block;
+    padding: 10px;
+    background-color: #ddd;
+    color: #333;
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+.pagination a.active {
+    background-color: #333;
+    color: #fff;
+
+}
+
+/* Styles for instrument name */
+.instrument-name {
+    font-weight: normal;
+    font-size: 16px;
+}
+
+/* Styles for pricing */
+.pricing {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* Set font size for status */
+.instrument-status {
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 5px;
+    color: green;
+}
+
+.out-of-stock {
+    color: red;
+
+}
+
+.offer-price {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: red;
+}
+
+.original-price {
+    font-size: 0.9rem;
+    text-decoration: line-through;
+}
+
+.add-to-cart-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 8px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.buy-now-button {
+    background-color: #008CBA;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.instrument-box .model {
+    font-size: 18px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+h3 {
+    font-weight: normal;
+    margin: 0;
+    line-height: 1;
+}
+
+.product-image img {
+    display: block;
+    margin: auto;
+}

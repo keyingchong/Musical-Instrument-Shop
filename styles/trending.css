@@ -1,0 +1,90 @@
+.trending-caption.price {
+  font-weight: bold;
+  color: red;
+}
+
+.trending-caption, .trending-caption.price {
+  text-align: left;
+}
+
+.trending-btn1 {
+  background: none;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  color: rgb(79, 0, 79);
+  font-weight: bold;
+}
+
+.trending-btn1:hover {
+  text-decoration: underline;
+}
+
+.trending-container {
+  text-align: center;
+}
+
+.trending-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+  width: 100%;
+}
+
+.trending-column {
+  padding: 0 10px;
+}
+
+.trending-container {
+  position: relative;
+  margin: auto;
+  width: 100%;
+}
+
+.trending-column .trending-container img{
+  border-radius: 10px;
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+}
+
+.trending-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 300px;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgba(0, 0, 0, 0.7); /* black color with opacity */
+  border-radius: 10px;
+}
+
+.trending-container:hover .trending-overlay {
+  opacity: 1;
+}
+
+.trending-text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.trending-btn {
+  background: none;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  }

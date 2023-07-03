@@ -1,0 +1,27 @@
+/*ourproduct*/
+.oproduct-row {
+  margin: auto;
+  width: 100%;
+}
+.oproduct-column {
+    float: left;
+    width: 16%;
+    padding: 5px;
+    margin: 0 2%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+ .oproduct-img {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    transition: transform 1s;
+  }
+  
+  .oproduct-img.flip {
+    transform: rotateY(180deg);
+  }

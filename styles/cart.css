@@ -1,0 +1,170 @@
+body {
+    background-image: linear-gradient(lightyellow, rgb(233, 201, 255));
+	display: flex;
+    flex-direction: column;
+	align-items: flex-start;
+    padding: 60px;
+    gap: 40px;
+}
+
+
+.title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 49px;
+    color: #2C1B4F;
+}
+
+
+.cart-container{
+	background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.cart-container table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.cart-container table td:nth-child(1) {
+    width: 100px;
+}
+
+.cart-container table td:nth-child(5) {
+    width: 150px;
+}
+
+.cart-container table thead td {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #2C1B4F;
+    padding: 6px 0;
+}
+
+.cart-container table td {
+    text-align: center;
+}
+
+
+.cart-container table tbody img {
+    width: 225px;
+    object-fit: scale-down;
+}
+
+.remove {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #EA4335;
+	cursor: pointer;
+}
+
+.cart-bottom {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
+}
+
+.coupon {
+    display: flex;
+    flex-direction: column;
+    flex:50%;
+    align-items: flex-start;
+    padding: 20px 20px 40px;
+    background: #2C1B4F;
+    border-radius: 10px;
+}
+
+.total {
+    display: flex;
+    flex-direction: column;
+    flex: 50%;
+    align-items: flex-end;
+    padding: 20px 20px 40px;
+    background: #2C1B4F;
+    border-radius: 10px;
+}
+
+.subtitle {
+    width: 100%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 32px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.coupon p, .total p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.coupon input {
+    box-sizing: border-box;
+    background: none;
+    width: 300px;
+    height: 40px;
+    border: 2px solid #FFFFFF;
+    border-radius: 50px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF;
+
+    padding-left: 15px;
+}
+
+.couponcode {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+
+.detailsItem {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.coupon button, .total button{
+    padding: 11px 30px;
+    background-color: #FFFFFF;
+    color: #2C1B4F;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 50px;
+    border: none;
+}
+
+
+
+
+
+
+
+
