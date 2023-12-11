@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <year id="2020">
+        <item>
+            <name>Chan Sin Yow</name>
+            <date>Feb, 2020</date>
+            <course>Diploma in Internet Technology</course>
+            <image>image/chansinyow.jpeg</image>
+            <description>I had worked as an intern in this company for 3 months which I worked as a full stack developer. 
+                    The people in this company are amazing, they taught me a lot, especially the director, they are there to help us 
+                    when anythings goes on in works. The working environment are great, you can have a rest whenever you feel overwhelmed.</description>
+        </item>
+        <item>
+            <name>Wan Theng</name>
+            <date>Feb, 2020</date>
+            <course>Diploma in Internet Technology</course>
+            <image>image/wan.jpeg</image>
+            <description>I have my internship in COMTECH2U COMMUNICATIONS SDN. BHD., I was assigned to worked as a web developer, mainly on web designing. 
+                    Throughout, I have learned many programming knowledge and skill. The working environment are very comfortable and relaxed, 
+                    people there are very friendly and talkative, I did not feel stressed working there. Also, they are willing to help me when I 
+                    face any problems. I am very appreciated working in COMTECH2U COMMUNICATIONS SDN. BHD.</description>
+        </item>
+        <item>
+            <name>Ong Yi Peng</name>
+            <date>Feb, 2020</date>
+            <course>Diploma in Internet Technology</course>
+            <image>image/yipeng.jpeg</image>
+            <description>I have been working in COMTECH2U COMMUNICATIONS SDN. BHD. for 3 months because it is intern period. 
+                    I worked as a technical support about tagging, data entry, setup pc, and etc. I have learned a lot of things in this internship period. 
+                    This company are take care of our employees and very friendly. When I worked in this company, I felt like very relax and comfortable. 
+                    There won't be a lot of pressure. When I facing some problem, I can directly ask from director to help me solve problems. 
+                    I very appreciated that have the opportunity working in this company.</description>
+        </item>
+        <item>
+            <name>Szu Wen</name>
+            <date>Feb, 2020</date>
+            <course>Diploma in Internet Technology</course>
+            <image>image/szuwen.jpeg</image>
+            <description>I had worked as an intern at Comtech2U Communications for 3 months, the overall working experience at this company was great.
+                    This is the greatest experiences in my life. This is because the employee at there are kind and helpful. 
+                    The environment at the office is comfortable and nice. I felt like this company is one of my home.</description>
+        </item>
+        <item>
+            <name>Ket Yee</name>
+            <date>Feb, 2020</date>
+            <course>Diploma in Internet Technology</course>
+            <image>image/ketyee.jpg</image>
+            <description>I have my internship in Comtech2u Communications Sdn. Bhd. 
+                    I was assigned to work as a technical support, mainly support and solve the customers’ problems. In this case, 
+                    I have learned a lot of technical skills that solve the customers' problems in real time. 
+                    When I worked in this company, I felt very comfortable and enjoyed it. 
+                    The people there were very nice and responsible. They will lend a hand when I am facing problems and teach me to solve the problems. 
+                    I felt appreciated that I am working as an intern in Comtech2U Communications Sdn. Bhd.</description>
+        </item>
+        <item>
+            <name>Fang Yee</name>
+            <date>Oct, 2020</date>
+            <course>Diploma in Internet Technology</course>
+            <image>image/fangyee.jpeg</image>
+            <description>I have conducted my internship in Comtech2u Communication Sdn Bhd for 3 months. My role in here are as a Web Developer. 
+            My task is usually to develop a website and fixing the errors occurred in website. In here, I get to know those full-time employees worked at here, and they are very nice to work with. 
+            Besides, I’m able to learn many knowledge that did not learned in College and able to gain working experience, which can enhance my skills. In here, there also very easy to find parking and its good for those who has own transportation. 
+            The best part is, I’m allowed to have tealive every week, which give me strength to focus on work. Overall, I feel happy and satisfy to work in Comtech2u Communication Sdn Bhd.</description>
+        </item>
+        <item>
+            <name>Wai Zhong</name>
+            <date>Oct, 2020</date>
+            <course>Diploma in Computer Science and Computer Mathematic</course>
+            <image>image/waizhong.jpeg</image>
+            <description>I have done my internship program in Comtech2u Communications Sdn Bhd. During this internship period in this company, I have learned a lot of extra knowledges and skills that I have not studied before. 
+            Also, the working environment in this company is very well. People in this company are very nice and kind in helping each other to solve problems. 
+            Besides, the company also provided free snack and drink for us to relax during working time and sometimes we can even have Tealive whenever we felt stressful. At the end, I am very happy and appreciated to work in Comtech2u Communications Sdn Bhd.</description>
+        </item>
+        <item>
+            <name>Shi Qi</name>
+            <date>Oct, 2020</date>
+            <course>Diploma in Science Information System Engineering</course>
+            <image>image/shiqi.jpeg</image>
+            <description>I had worked as an intern in Comtech Communication Sdn Bhd for 3 months. I have learned a lot of knowledge during this internship period. I thoroughly enjoyed my internship and it is a memorable experience to me. 
+            Besides, the people here are always helpful and kind when I faced problems. Feeling grateful that company provided those free drinks as I can have a drink every morning. Having Tealive every week is one of the best moments in internship period. 
+            I am grateful and appreciative to have work in Comtech2u Communication Sdn Bhd</description>
+        </item>
+        <!-- Add more items for this year -->
+    </year>
+
+    <year id="2023">
+        <item>
+            <name>Dhana</name>
+            <date>July, 2023</date>
+            <course>BSc (Hons) Computer Science (Cyber Security)</course>
+            <image>image/dhana.jpeg</image>
+            <description>The boss is nice, friendly relaxing environment, got to do a lot of things, learned a lot,
+and most importantly, I was appreciated hehe >:3</description>
+    </item>
+        <item>
+            <name>Ho Yi</name>
+            <date>Oct, 2023</date>
+            <course>Bachelor of Computer Science (Hons) Mobile Computing and Networking</course>
+            <image>image/hoyi.jpg</image>
+            <description>I learn a lot in this company, the work environment is comfortable and chill. Our director was nice and the staffs around me were friendly. 
+            Sometimes Mr Thye belanja us food, hehe 😛. Appreciate the moment work together with my colleague and my boss. Byee and wish Comtech2u all the best! >hy</description>
+    </item>
+    <item>
+            <name>Adrian</name>
+            <date>Oct, 2023</date>
+            <course>Diploma in Information &amp; Communication Technology (Interactive Technology)</course>
+            <image>image/adrian.jpeg</image>
+            <description>Throughout 8 weeks of internship, I've learned and experienced a lot at this company. At first, I only learned about networking through Cisco packet tracers 
+			and only had basic knowledge of the topic. But after experiencing setting up network hardware physically, I've realized it has a big difference between setting up virtually 
+			and physically thanks to this internship experience and I'm grateful for that. Plus boss and colleagues are very friendly &#128512;</description>
+    </item>
+    <item>
+            <name>Ke Ying</name>
+            <date>Oct, 2023</date>
+            <course>BSc (Hons) Applied Mathematics with Computing</course>
+            <image>image/ky.jpg</image>
+            <description>I interned at this company for 4 months. While working as a web developer at ComTech2U, I got to hang out in a super comfy and welcoming spot. 
+            The entire team, from my colleagues to the director, were not only friendly but also incredibly helpful and supportive.  Plus, we had free drinks, which made the place even more awesome!</description>
+    </item>
+    <item>
+            <name>Chin Yi</name>
+            <date>Oct, 2023</date>
+            <course>Diploma in Information Technology</course>
+            <image>image/chinyi.jpeg</image>
+            <description>I have been working as an intern at ComTech2U Communication Sdn. Bhd. for three months. The staff here is very kind and friendly. 
+            I learned many new skills and knowledge during my internship that I had not previously studied. In the end, I am delighted to have had the opportunity to work at ComTech2U Communication Sdn. Bhd.</description>
+    </item>
+     <item>
+            <name>Jason</name>
+            <date>Nov, 2023</date>
+            <course>Diploma in Information Technology</course>
+            <image>image/jason.jpeg</image>
+            <description>Thanks to Comtech2U Communication Sdn. Bhd. for hiring me as an intern. It gives me great joy to be able to work for this company. I was learning how to provide technical help and 
+            solve client problems. Not only that, but I hope to learn even more in the future. I was very grateful to my boss and colleagues for their willingness to teach me.</description>
+    </item>
+        <!-- Add items for 2023 -->
+    </year>
+</data>
